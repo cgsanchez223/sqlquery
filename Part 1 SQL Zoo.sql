@@ -1,4 +1,6 @@
 -- Part 1 SQL Zoo
+-- https://sqlzoo.net/wiki/SQL_Tutorial
+-- Tutorials 0, 1, 2, and 3
 
 -- Tutorial 0:
 -- 1. Modify it to show the population of Germany:
